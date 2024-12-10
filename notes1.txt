@@ -1,0 +1,10 @@
+I am Learning gits
+
+
+
+when you unstage the file  you have to 
+
+git rm --cached filenamewithextension
+git add filename.extension means you adding file to stage to ready push repository
+
+i amlearning somthing
